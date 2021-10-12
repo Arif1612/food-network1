@@ -40,7 +40,7 @@ font-weight: 700;
     text-align: center;
 }
 .thirty{
-    width: 30%;
+    width: 33%;
     margin: 20px;
 }
 .thirty img{
@@ -50,5 +50,18 @@ font-weight: 700;
 }
 .recipies{
     display: flex;
+}
+.likes{
+    display: flex;
+   
+}
+
+.likes h2{
+    font-size: 80px;   
+}
+.likes .thirty{
+     width: 33%;
+     text-align: center;
+
 }
 
