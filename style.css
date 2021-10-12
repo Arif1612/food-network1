@@ -28,3 +28,8 @@ font-weight: 700;
     border-radius: 30px;
     margin-top: 40px;
 }
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
