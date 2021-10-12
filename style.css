@@ -33,3 +33,22 @@ font-weight: 700;
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
+#recipi{
+    text-align: center;
+}
+#recipi-pera{
+    text-align: center;
+}
+.thirty{
+    width: 30%;
+    margin: 20px;
+}
+.thirty img{
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px gray;
+}
+.recipies{
+    display: flex;
+}
+
