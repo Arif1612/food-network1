@@ -64,4 +64,16 @@ font-weight: 700;
      text-align: center;
 
 }
+footer{
+    text-align: center;
+    background-color: rgb(1, 1, 41);
+    padding: 20px;
+}
+footer p{
+    color: white;
+   
+}
+footer h1{
+    color: gray;
+}
 
